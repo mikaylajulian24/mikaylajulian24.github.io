@@ -1,5 +1,15 @@
 ---
 title: "mikaylajulian24.github.io"
+image: media/photo_2.jpeg # pahtway of folder indiciated with media
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 50mm
+  links:
+  - icon: github
+    href: https://github.com/mikaylajulian24
+    target: blank
 ---
 
 This is a Quarto website.
