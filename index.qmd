@@ -12,10 +12,24 @@ about:
     target: blank
 ---
 
-This is a Quarto website.
+# This is header 1 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## This is header 2 
 
-```{r}
-1 + 1
-```
+### This is header 3 
+
+This is a paragraph. It will be about me. Welcome!
+
+- fdf
+
+- fsdf
+
+- fsdffk
+
+fnsjdfklsdjf
+
+1.  dsf
+
+2.  dsfs
+
+3.  sdf

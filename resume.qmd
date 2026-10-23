@@ -1,0 +1,11 @@
+---
+title: "Resume"
+resources: 
+  - media/MIKAYLA_JULIAN_Resume_2026.pages
+---
+
+About this site
+
+{{< pdf media/MIKAYLA_JULIAN_Resume_2026.pages width=100% height=800 >}}
+
+![](media/MIKAYLA_JULIAN_Resume_2026.pages)

@@ -3,12 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Mikayla Julian"
+  # title: "Mikayla Julian"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
+      - href: index.qmd # hyphen puts a link and is named by the text "Home"
+        text: Home 
       - about.qmd
+      - resume.qmd # hyphen shows another new link 
+      - icon: github
+        href: http://github.com/mikaylajulian24
+        target: blank
+
 
 format:
   html:
