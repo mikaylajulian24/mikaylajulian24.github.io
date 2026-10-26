@@ -5,6 +5,7 @@ project:
 website:
   # title: "Mikayla Julian"
   navbar:
+    background: pink 
     right:
       - href: index.qmd # hyphen puts a link and is named by the text "Home"
         text: Home 
@@ -13,13 +14,15 @@ website:
       - icon: github
         href: http://github.com/mikaylajulian24
         target: blank
-
+        
+  page-footer:
+    left: © Copyright 2026, Mikayla Julian
 
 format:
   html:
-    theme:
-      light: quartz
-      dark: vapor 
+    theme: brite
+      # light: quartz
+      # dark: vapor 
 
     css: styles.css
     toc: true
