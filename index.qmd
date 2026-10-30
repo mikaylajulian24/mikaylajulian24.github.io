@@ -1,5 +1,5 @@
 ---
-title: "Mikayla Atasha Julian"
+title: "⋆⊱༻Mikayla Atasha Julian༺⊰⋆"
 image: media/photo_2.jpeg # pahtway of folder indiciated with media
 toc: false
 about:
@@ -13,12 +13,18 @@ about:
   - icon: youtube
     href: https://youtube.com/@mikayla4999
     target: blank
-  - icon: email
+  - icon: envelope
     href: mailto:mikaylaatasha.julian@student.chaminade.edu
 ---
 
-## 
+## ⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔⏔⏔
 
 ## Welcome to my website!
 
-### I'm an undergraduate student studying Computer and Data Science at Chaminade University of Honolulu. My interests includes the applications of the sciences through analytical thinking and data-driven insights in order to address realistic problems still in need of solutions that are able to be provided through implementations of new skills and technologies. Technology should serve as an aid instead of overrunning human capabilities. My motivations lie in the solutions that support our communities' growth and success, which can often be established by the state of its people. Throughout the different subjects, problems, and coursework encountered in this career, I want my work to have a lasting impact measured through making practical differences. 
+### I'm an undergraduate student studying Computer and Data Science at Chaminade University of Honolulu. 
+
+### My interests focuses on applications of the sciences through analytic and data-driven thinking and insights in order to address realistic problems still in need of solutions that are able to be provided through implementations of new skills and technologies. 
+
+### Technology should serve as an aid towards humans instead of overrunning human capabilities. My motivations lie in the solutions that support our communities' growth and success, which can often be established by the state of its people. 
+
+### Throughout the different subjects, problems, and coursework encountered in this career, I want my work to have a lasting impact measured through making practical differences. 

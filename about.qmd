@@ -1,8 +1,20 @@
 ---
-title: "About"
+title: "About Me ⚞^. .^⚟ "
 ---
 
-About this site
+### Hobbies & Creative Interests 
+
+#### I enjoy drawing things I see, painting landscapes and objects, and also dedicated projects in ceramics. I love music and have played the piano since I was four and I am now continuing to learn the bass and electric guitar. 
+
+#### I spend a lot of time with my family and pets and have lived with up to ten animals at one time. I have owned bunnies, mice, and cannibalistic fish... I also enjoy baking sweets as much as eating them and spending time with my loved ones. 
+
+### My Home
+
+#### Living on Oahu my whole life, I consider this island as a big part of my home. But, growing up in the United States and away from my birthplace has given me an opportunity to experience two very distinct ways of living.  I was born in the Philippines and came here when I was 2 weeks old. Since then, I have been blessed to lived on Oahu but also have experienced living in the Philippines for months to up to 1 year at a time throughout the years. 
+
+#### Our immediate family's living conditions in the Philippines was only able to significantly improve due to the work provided by the United States. I am incredibly grateful that my great-grandpa paved a way for us to immigrate for better opportunities, unlike majority of the Philippines where it takes years for petitions to get granted. 
+
+### My Interests and Community 
 
 ```{r}
 1 + 1
