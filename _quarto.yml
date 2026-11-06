@@ -11,6 +11,8 @@ website:
         text: Home 
       - about.qmd
       - resume.qmd # hyphen shows another new link 
+      - href: http://mikaylajulian24.github.io/dashboards 
+        text: Dashboard Projects
       - icon: github
         href: http://github.com/mikaylajulian24
         target: blank
